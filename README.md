@@ -31,3 +31,5 @@
 |2| [Домашнее задание №2](https://official.contest.yandex.ru/contest/71490/enter/)| 3 декабря 23:59:59 |
 
 ## Полезные ссылки
+
+- [Конспекты ПМИ ФКН](https://disk.yandex.ru/i/BkcKilJkumcPV)

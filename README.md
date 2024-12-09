@@ -30,6 +30,7 @@
 |-|-|-|
 |1| [Домашнее задание №1](https://official.contest.yandex.ru/contest/69263/problems/)| 22 октября 23:59:59 |
 |2| [Домашнее задание №2](https://official.contest.yandex.ru/contest/71490/enter/)| 3 декабря 23:59:59 |
+|3| [Домашнее задание №3](https://official.contest.yandex.ru/contest/72507/enter/) | 11 января 23:59:59 |
 
 ## Полезные ссылки
 

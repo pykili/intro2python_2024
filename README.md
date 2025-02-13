@@ -27,6 +27,7 @@
 |10|21.01.2025| [Лекция. Функции](lectures/lecture_functions.pdf)|
 |11|27.01.2025 –– 02.02.2025| [Функции](seminars/sem09_functions)|
 |12|03.02.2025 –– 09.02.2025| [Рекурсия](seminars/sem_10_recursion)|
+|13|10.02.2025 –– 16.02.2025| [Импорт и создание модулей](seminars/sem11_import)|
 
 ## Домашние задания
 
@@ -35,6 +36,7 @@
 |1| [Домашнее задание №1](https://official.contest.yandex.ru/contest/69263/problems/)| 22 октября 23:59:59 |
 |2| [Домашнее задание №2](https://official.contest.yandex.ru/contest/71490/enter/)| 3 декабря 23:59:59 |
 |3| [Домашнее задание №3](https://official.contest.yandex.ru/contest/72507/enter/) | 11 января 23:59:59 |
+|4| [Домашнее задание №4](https://official.contest.yandex.ru/contest/74892/problems/) | 2 марта 23:59:59 |
 
 ## Полезные ссылки
 

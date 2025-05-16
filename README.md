@@ -43,6 +43,7 @@
 |3| [Домашнее задание №3](https://official.contest.yandex.ru/contest/72507/enter/) | 11 января 23:59:59 |
 |4| [Домашнее задание №4](https://official.contest.yandex.ru/contest/74892/problems/) | 2 марта 23:59:59 |
 |5| [Домашнее задание №5](https://official.contest.yandex.ru/contest/75681/problems/) | 1 апреля 23:59:59 |
+|6| [Домашнее задание №6](https://official.contest.yandex.ru/contest/78257/enter/) | 8 июня 23:59:59 |
 
 ## Полезные ссылки
 
